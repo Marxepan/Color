@@ -1,0 +1,6 @@
+{
+  "name": "ChromaMix",
+  "description": "Prosta aplikacja do mieszania kolorów, zapisywania ulubionych odcieni i tworzenia układów palet.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
